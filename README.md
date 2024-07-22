@@ -8,7 +8,7 @@
    <br> - **Sales Performance** : contains a summary of the sales performance of PT Sejahtera Bersama for the period 2020 to 2021.
    <br>
    <br> - **Customer Performance** :
-          <br>contains the customer performance of PT Sejahtera Bersama during the period 2020 - 2021. Through this Dashboard, we can also see the number of **new customers**, customers who are still shopping during that period **(existing customer)** and **Average Revenue per User (ARPU)**. In addition, the Customer Performance Menu can also see the City and State where the customer is located. So, we can reach out to customers when we want to make repeat purchases to improve sales performance in the next period.
+          <br>Contains the customer performance of PT Sejahtera Bersama during the period 2020 - 2021. Through this Dashboard, we can also see the number of **new customers**, customers who are still shopping during that period **(existing customer)** and **Average Revenue per User (ARPU)**. In addition, the Customer Performance Menu can also see the City and State where the customer is located. So, we can reach out to customers when we want to make repeat purchases to improve sales performance in the next period.
    <br>
    <br> - **Product Performance** : 
           <br>Product Performance is used to view the Sales Performance of each Category and each Product during the 2020-2021 Period. Through Product Performance we can see **GMV**, **Number of Units Sold**, **Number of Orders** and there are also additional KPIs such as **Average Order Value (AOV)**, **Basket Size**, **Average Sold Product (ASP)**, and **Average Revenue per User (ARPU)**.
