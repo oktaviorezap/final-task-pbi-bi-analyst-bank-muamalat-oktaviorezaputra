@@ -1,5 +1,8 @@
 # Poject-Based Internship by Rakamin Academy : Bank Muamalat
 
+# Sales Dashboard
+Dashboard Link : [Download Sales Dashboard - Click "View Raw"](https://github.com/oktaviorezap/final-task-pbi-bi-analyst-bank-muamalat-oktaviorezaputra/blob/main/Task%205_BI%20Analyst_Muamalat%20Bank_Oktavio%20Reza%20Putra.pbix)
+<br>
 1. This dashboard is used to view the Sales Performance of a Technology Company named PT. Sejahtera Bersama for the Period of 2020 - 2021
 2. Dashboard consists of 3 important components consisting of :
    <br> - **Sales Performance** : contains a summary of the sales performance of PT Sejahtera Bersama for the period 2020 - 2021.
