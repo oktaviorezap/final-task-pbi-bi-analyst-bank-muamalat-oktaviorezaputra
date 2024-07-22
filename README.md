@@ -20,7 +20,7 @@
 <br>
 <br>
 
-**PT Sejahtera Bersama Sales Dashboard Overview:**
+# PT Sejahtera Bersama Sales Dashboard Overview
 <br>
 
 ![Screenshot 2024-07-22 175138](https://github.com/user-attachments/assets/73d8cf5f-9ba1-417c-95bf-0ed98badee6b)
