@@ -1,4 +1,4 @@
-# Poject-Based Internship by Rakamin Academy : Bank Muamalat
+# Project-Based Internship by Rakamin Academy : Bank Muamalat
 
 # Sales Dashboard
 **Sales Dashboard Link** : [Download Sales Dashboard - Click "View Raw"](https://github.com/oktaviorezap/final-task-pbi-bi-analyst-bank-muamalat-oktaviorezaputra/blob/main/Task%205_BI%20Analyst_Muamalat%20Bank_Oktavio%20Reza%20Putra.pbix)
